@@ -1,0 +1,5 @@
+1- git add . (Add todos os arquivos [local])
+2- git commit -m _comentário_ (Criando um commit com os comentários a respeito do que está sendo add/feito)
+3- git status (Para verificar se tudo está devidamente processado)
+4- git push origin main (Enviando os commits que estão localmente para o GitHub)
+5- Reiniciar a página do GitHub para ver a add dos novos arquivos.
