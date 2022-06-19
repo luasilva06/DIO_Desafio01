@@ -1,0 +1,6 @@
+# PROCEDIMENTOS PARA FAZER O DOWNLOAD PARA O AMBEINTE LOCAL
+
+
+1- Ir na pasta de destino, apertar com o botão direito do mouse e selecionar Git Bash Here
+2- Copiar o HTTPS do repositório no GitHub
+3- Digitar Git Clone --link do repositório--
